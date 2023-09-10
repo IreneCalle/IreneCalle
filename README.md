@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IreneCalle
-- 👀 I’m specialized in back-end, also into AI and pretty much anything, really :)
-- 🌱 I’m currently learning a bit more about AWS & Cloud so much to see...
-- 💞️ I’m looking to collaborate on junior projects, let's do this
+- 👀 I’m specialized or specializing in back-end :) Background in linguistics and mkt ---
+- 🌱 I’m currently learning a bit more about AWS//Cloud//Python//AI so much to see...
+- 💞️ I’m looking to collaborate on projects, let's do this
 - 📫 How to reach me ...drop me a line! ireneccprogramacion@gmail.com
 
 <!---
