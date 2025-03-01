@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @IreneCalle
-- 👀 I’m specialized or specializing in back-end :) Background in linguistics and advertising.  ---
-- 🌱 I’m currently learning AWS//AI//Data Science -- so much to see...
-- 💞️ I’m looking to collaborate on projects, let's do this
-- 📫 How to reach me ...drop me a line! ireneccprogramacion@gmail.com
+# Hello, I'm Irene Calle 👋
 
-<!---
-IreneCalle/IreneCalle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🖥️ Backend developer with a linguistics background, passionate about NLP
+- 🔍 Leveraging my language expertise to build smarter, more intuitive systems
+- ☁️ Currently expanding my skills in AWS, AI, and Data Science
+- 🧠 Fascinated by the intersection of human language and machine learning
+
+## What I'm Up To
+- 🌱 Deepening my knowledge in cloud architecture and machine learning pipelines
+- 📊 Working on projects that combine linguistic analysis with data science
+- 🤖 Exploring the latest developments in natural language processing
+
+## Collaboration
+- 💞️ Open to collaborating on innovative projects, especially those involving NLP
+- 🔄 Interested in open source contributions and knowledge exchange
+- 🚀 Always looking to connect with like-minded tech enthusiasts
+
+## Connect With Me
+- 📫 Email: ireneccprogramacion@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/irenecallejas/
+- 💻 Personal Website/Blog: https://medium.com/@ireneccprogramacion
+
+*Let's build something amazing together!*
